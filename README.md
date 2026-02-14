@@ -1,4 +1,4 @@
-# justine_flutter_app
+# justine flutter app
 
 A new Flutter project.
 
